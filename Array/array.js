@@ -98,3 +98,4 @@ myCustomArray.pop();
 myCustomArray.pop();
 
 console.log(myCustomArray.array);
+console.log("test log");
